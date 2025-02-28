@@ -38,7 +38,7 @@ The repository will be organized into folders for each module, making it easier 
 ### 📬 Let's Connect
 Feel free to follow my journey or reach out:
 
-[GitHub Profile](https://github.com/BunnyeNyash)
-[LinkedIn (Personal Profile)](https://www.linkedin.com/in/bosiboriotachi-6a1a46218/)
-[LinkedIn (Documentation of My FinTech Learning Journey)](https://www.linkedin.com/company/otachi-bosibori/)
-[X.com](https://x.com/tf_bunnye)
+- 🌐 [GitHub Profile](https://github.com/BunnyeNyash)
+- 💼 [LinkedIn (Personal Profile)](https://www.linkedin.com/in/bosiboriotachi-6a1a46218/)
+- 📖 [LinkedIn (Documentation of My FinTech Learning Journey)](https://www.linkedin.com/company/otachi-bosibori/)
+- 🐦 [X (Twitter)](https://x.com/tf_bunnye)

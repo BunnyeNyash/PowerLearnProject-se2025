@@ -1,7 +1,6 @@
 # Contains a function to say "Welcome to Python Practice!"
 
-def say(message):
+def say(message="Welcome to Python Practice!"):
    return message
 
-message = "Welcome to Python Practice!"
-print(say(message))
+print(say())

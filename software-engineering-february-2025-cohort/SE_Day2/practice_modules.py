@@ -30,4 +30,8 @@ print(datetime.date.today())                            # 3
 
 
 
-print(my_module.say(message="Hello Weddy!"))            # 4
+print(my_module.say())            # 4
+
+
+
+

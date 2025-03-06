@@ -5,5 +5,6 @@ This program asks for the user’s name and favorite color and then prints a per
 
 ## Skills Learned
 - Working with inputs and outputs
+- Working with variables
 - Working with functions
 - Working with Format strings

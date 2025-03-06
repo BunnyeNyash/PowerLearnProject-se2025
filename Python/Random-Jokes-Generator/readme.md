@@ -9,3 +9,4 @@ A program that stores a list of jokes and randomly selects one to display every 
 - Working with loops
 - Working with modules
 - Working with user inputs and outputs
+- Working with escape characters

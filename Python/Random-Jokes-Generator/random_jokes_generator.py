@@ -6,7 +6,7 @@ DISCLAIMER!!  : The Jokes are AI-Generated
 
 
 
-import random       # to randomly select an joke from the list
+import random       # to randomly select any joke from the list
 
 jokes = [
     "Why do Python programmers prefer dark mode? Because the light attracts bugs!",
@@ -41,7 +41,7 @@ def get_random_joke():
 
 def main():
     """
-    Main function - runs all tests
+    Main function - runs the random jokes generator
     """
     print("Welcome to the Random Jokes Generator App")
     input("Press Enter to hear a joke ... ")

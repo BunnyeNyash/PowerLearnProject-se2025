@@ -5,7 +5,7 @@ def count_uppercase_lowercase_other():
     string_1 = input("Enter your string: ")
 
     # dictionary for storing the values for uppercase, lowercase, and other characters
-    dict = {
+    char_count = {
         "uppercase" : 0,
         "lowercase" : 0,
         "other" : 0

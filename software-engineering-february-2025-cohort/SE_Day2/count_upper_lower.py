@@ -25,4 +25,3 @@ def count_uppercase_lowercase_other():
 
 # invoke the function
 print(count_uppercase_lowercase_other())
-

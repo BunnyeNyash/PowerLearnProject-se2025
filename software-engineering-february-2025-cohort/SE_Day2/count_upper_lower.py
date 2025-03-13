@@ -21,7 +21,7 @@ def count_uppercase_lowercase_other():
         else:
             dict["other"] += 1
 
-    return dict
+    return char_count
 
 # invoke the function
 print(count_uppercase_lowercase_other())

@@ -31,7 +31,7 @@ The Power Learn Project (PLP) is a comprehensive software engineering training p
 ---
 
 ## 📁 Folder Structure
-The repository will be organized into folders for each module, making it easier to navigate and find specific assignments or projects.
+The repository will be organized into folders for each module (week), making it easier to navigate and find specific assignments or projects.
 
 ---
 

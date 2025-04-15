@@ -50,7 +50,7 @@ DROP DATABASE SchoolDB;
 
 ## 📂 Folder Structure
 ```
-SQL-Databases-Practice/
+weekly_coding_challenge/
 ├── README.md
 ├── sales_school_databases.sql
 ```

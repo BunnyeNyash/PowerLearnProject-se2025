@@ -47,6 +47,7 @@ The **Payments** table stores transaction data including payment amounts and the
 ```
 weekly_coding_challenge/
 ├── README.md
+├── sampleDB.sql
 ├── answers.sql
 ```
 

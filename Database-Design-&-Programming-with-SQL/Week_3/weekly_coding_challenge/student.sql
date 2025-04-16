@@ -1,6 +1,6 @@
 -- student table with columns (name, age, gender)
   CREATE TABLE student (
-    name VARCHAR(100) NOT NULL,
+    name VARCHAR(100) NOT NULL UNIQUE,
     age INT NOT NULL,
     gender VARCHAR(10) NOT NULL
   );

@@ -22,7 +22,7 @@ By the end, they’ll have a data analysis report with visuals and narrative ins
 - **Goal**: Obtain a reliable COVID-19 dataset.
 
 ✅ **Data Sources**:
-- [Our World in Data COVID-19 Dataset](https://ourworldindata.org/coronavirus#coronavirus-country-profiles) (CSV & API)
+- [Our World in Data COVID-19 Dataset(CSV & API)](https://www.kaggle.com/datasets)
 - [Johns Hopkins University GitHub Repository](https://github.com/CSSEGISandData/COVID-19)
 
 👉 **Recommended for Beginners**: Use the cleaned CSV from Our World in Data (`owid-covid-data.csv`), which is easy to load with pandas.
